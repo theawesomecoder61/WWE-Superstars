@@ -17,5 +17,6 @@ If you'd like to help me with the mod by doing one of the following:
 * writing code
 * testing experimental builds
 * making mod showcases/spreading the word wherever
+* localizing (translating the mod into other languages)
 
-feel free to **[email me at theac61@gmail.com](mailto:theac61@gmail.com)** and we'll talk!
+Feel free to **[email me at theac61@gmail.com](mailto:theac61@gmail.com)** and we'll talk!
