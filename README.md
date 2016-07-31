@@ -8,7 +8,7 @@ WWE in Minecraft with championship belts, wrestlers, music records, and more!
 - Forge
 
 ## Release date
-Spring 2017
+The release is set for some time in Spring 2017; visit the [official website](http://theandrew61.webstarts.com/mods/wwesuperstars) for more details.
 
 ## I'm looking for contributors, editors, and testers
 If you'd like to help me with the mod by doing one of the following:
